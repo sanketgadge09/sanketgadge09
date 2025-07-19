@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanketgadge09
 - 👀 I’m interested in FULL STACK DEVLOPMENT
-- 🌱 I’m currently learning SY BTECH
+- 🌱 I’m currently learning BTECH ENTC
 - 📫 How to reach me ...
 - 😄 Pronouns: he him.
 
